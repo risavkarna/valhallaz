@@ -1,0 +1,3 @@
+org.springframework.test.context.ContextCustomizerFactory = dev.risav.valhalla.\
+    config.SqlTestContainersSpringContextCustomizerFactory,dev.risav.valhalla.\
+    config.TestContainersSpringContextCustomizerFactory
